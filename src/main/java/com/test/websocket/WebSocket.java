@@ -20,7 +20,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public class WebSocket {
     private Logger logger = LoggerFactory.getLogger(this.getClass());
     /**
-     * 在线人数123
+     * 在线人数123444
      */
     public static int onlineNumber = 0;
     /**
